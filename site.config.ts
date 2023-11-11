@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '373d4576f5184a81b40c173e79de2c54',
+  rootNotionPageId: '57aa1ebd16f14d419e043b8a813eb2f6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Wenyuan',
 
   // open graph metadata (optional)
-  description: 'Simple blog base on wenyuan's notion',
+  description: 'Simple blog base on notion',
 
   // social usernames (optional)
-  twitter: '',
+  // twitter: '',
   github: 'goudan-er',
-  linkedin: '',
+  // linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
